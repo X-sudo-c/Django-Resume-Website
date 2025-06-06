@@ -22,3 +22,4 @@ urlpatterns = [
     path('', include('base.urls'))
 ]
 #/admin defines the path to the admin page 
+#the admin page allows you to create models etc 
